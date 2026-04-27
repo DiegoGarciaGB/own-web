@@ -1,0 +1,30 @@
+{"timestamp":"00:00:02.699","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.699","source":"Server","level":"LOG","message":"  We detected TypeScript in your project and reconfigured your tsconfig.json file for you."}
+{"timestamp":"00:00:02.699","source":"Server","level":"LOG","message":"  The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:\n"}
+{"timestamp":"00:00:02.699","source":"Server","level":"LOG","message":"  \t- include was updated to add '.next/dev/types/**/*.ts'"}
+{"timestamp":"00:00:02.700","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.700","source":"Server","level":"LOG","message":"  The following mandatory changes were made to your tsconfig.json:\n"}
+{"timestamp":"00:00:02.700","source":"Server","level":"LOG","message":"  \t- jsx was set to react-jsx (next.js uses the React automatic runtime)"}
+{"timestamp":"00:00:02.700","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.773","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:05.808","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:00:33.548","source":"Server","level":"LOG","message":"✓ Compiled in 384ms"}
+{"timestamp":"00:00:50.396","source":"Server","level":"LOG","message":"✓ Compiled in 68ms"}
+{"timestamp":"00:04:47.235","source":"Server","level":"LOG","message":"✓ Compiled in 125ms"}
+{"timestamp":"00:04:53.437","source":"Server","level":"LOG","message":"✓ Compiled in 75ms"}
+{"timestamp":"00:06:35.260","source":"Server","level":"LOG","message":"✓ Compiled in 88ms"}
+{"timestamp":"00:06:43.715","source":"Server","level":"LOG","message":"✓ Compiled in 83ms"}
+{"timestamp":"00:10:26.034","source":"Server","level":"LOG","message":"✓ Compiled in 118ms"}
+{"timestamp":"00:10:46.179","source":"Server","level":"LOG","message":"✓ Compiled in 122ms"}
+{"timestamp":"00:14:59.202","source":"Server","level":"LOG","message":"✓ Compiled in 83ms"}
+{"timestamp":"00:15:42.737","source":"Server","level":"LOG","message":"✓ Compiled in 240ms"}
+{"timestamp":"00:18:28.067","source":"Server","level":"LOG","message":"✓ Compiled in 31ms"}
+{"timestamp":"00:18:57.858","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"00:19:38.431","source":"Server","level":"LOG","message":"✓ Compiled in 776ms"}
+{"timestamp":"00:19:39.093","source":"Server","level":"LOG","message":"✓ Compiled in 61ms"}
+{"timestamp":"00:20:05.516","source":"Server","level":"LOG","message":"✓ Compiled in 0ms"}
+{"timestamp":"00:20:42.635","source":"Server","level":"LOG","message":"✓ Compiled in 119ms"}
+{"timestamp":"00:20:56.305","source":"Server","level":"LOG","message":"✓ Compiled in 56ms"}
+{"timestamp":"00:21:05.422","source":"Server","level":"LOG","message":"✓ Compiled in 86ms"}
+{"timestamp":"00:21:20.205","source":"Server","level":"LOG","message":"✓ Compiled in 67ms"}
+{"timestamp":"00:21:27.171","source":"Server","level":"LOG","message":"✓ Compiled in 65ms"}

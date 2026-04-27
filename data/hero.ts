@@ -1,8 +1,8 @@
 export const heroContent = {
   badge:      'Disponible para nuevos proyectos ✦',
-  headline:   'Del concepto\nal lanzamiento.',
+  headline:   'Tu negocio local,\nen línea\ny automatizado.',
   subheadline:
-    'Construimos la presencia digital que tu negocio merece: landing pages que convierten y automatizaciones que te ahorran tiempo.',
+    'Construimos tu presencia digital y automatizamos \ntus procesos — para que puedas enfocarte en lo que importa.',
   primaryCTA: {
     label: 'Ver servicios',
     href:  '#servicios',

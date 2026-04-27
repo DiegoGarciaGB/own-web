@@ -1,5 +1,6 @@
 import { Section } from '@/components/ui/Section'
 import { SectionHeader } from '@/components/ui/SectionHeader'
+import { FadeUp } from '@/components/ui/FadeUp'
 import { processSteps } from '@/data/process'
 import type { ProcessStep } from '@/types'
 
@@ -46,8 +47,10 @@ export function Process() {
 
         {/* Right: steps */}
         <div>
-          {processSteps.map((step) => (
-            <StepCard key={step.step} {...step} />
+          {processSteps.map((step, i) => (
+            <FadeUp key={step.step} delay={i * 0.1}>
+              <StepCard {...step} />
+            </FadeUp>
           ))}
         </div>
       </div>
